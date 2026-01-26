@@ -7,7 +7,6 @@ permalink: /projects/
 ## Simplified Monopoly
 This project is a recreation of Monopoly with simple rules and customization
 
-Insert image of game
-![Alt text](/assets/images/SimplifiedMonopoly.jpg)
+![Project image](/assets/images/SimplifiedMonopoly.jpg)
 
-Insert link to game from Git
+[Play the game](https://codyrr.github.io/Unit-1-Monopoly/)

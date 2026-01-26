@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to my portfolio. Here you will find my projects and my skills.

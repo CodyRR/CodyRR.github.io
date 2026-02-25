@@ -4,9 +4,10 @@
 
 layout: home
 ---
-![Image of Profile](/assets/images/Profile%20Picture.jpg){: width="25%" }
 
 ![Image of Brand](/assets/images/ProfileImage.jpg)
+
+![Image of Profile](/assets/images/Profile%20Picture.jpg){: width="25%" }
 
 Welcome to my portfolio. Here you will find my projects and my skills.
 
